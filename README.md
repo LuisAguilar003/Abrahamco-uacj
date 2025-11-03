@@ -12,7 +12,7 @@ Para trabajar en este proyecto, solo necesitas **Python 3.x**.
       * Una vez hecho el *fork*, los miembros del equipo deben clonarlo a su máquina local:
         ```bash
         git clone [URL_DE_TU_FORK]
-        cd banco_agil
+        cd [nombre de carpeta]
         ```
 2.  **Estructura de Archivos Clave:**
       * **`data/accounts.json`**: Base de datos simulada. Contiene datos de prueba.
